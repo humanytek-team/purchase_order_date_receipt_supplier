@@ -1,0 +1,28 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* purchase_order_date_receipt_supplier
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 9.0e-20170207\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-26 05:38+0000\n"
+"PO-Revision-Date: 2017-08-26 01:39-0400\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"Language: es_MX\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#. module: purchase_order_date_receipt_supplier
+#: model:ir.model.fields,field_description:purchase_order_date_receipt_supplier.field_purchase_order_date_received_by_supplier
+msgid "Date of received by supplier"
+msgstr "Fecha de recibido por proveedor"
+
+#. module: purchase_order_date_receipt_supplier
+#: model:ir.model,name:purchase_order_date_receipt_supplier.model_purchase_order
+msgid "Purchase Order"
+msgstr "Pedido de compra"
